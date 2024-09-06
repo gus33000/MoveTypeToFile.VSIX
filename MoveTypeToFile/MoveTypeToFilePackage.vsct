@@ -127,10 +127,10 @@
     
     <Symbols>
         <!-- This is the package guid. -->
-        <GuidSymbol name="guidMoveTypeToFilePkg" value="{8015c581-31ee-4b02-802a-37dc73a3c7df}" />
+        <GuidSymbol name="guidMoveTypeToFilePkg" value="{40359667-4b95-4c95-9f5d-feeded7fd198}" />
 
         <!-- This is the guid used to group the menu commands together -->
-        <GuidSymbol name="guidMoveTypeToFileCmdSet" value="{e417adb1-2c8e-4c4d-ad94-3a4d137a2b31}">
+        <GuidSymbol name="guidMoveTypeToFileCmdSet" value="{75d825ea-771c-4f0b-9714-c56ee218dcb5}">
             <IDSymbol name="SubMenuGroup" value="0x1001" />
             <IDSymbol name="SubMenu" value="0x1004"/>
             
